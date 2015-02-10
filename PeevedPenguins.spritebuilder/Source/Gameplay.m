@@ -9,7 +9,6 @@
 #import "Gameplay.h"
 #import "CCPhysics+ObjectiveChipmunk.h"
 #import "Penguin.h"
-//hhhhhhhhhhhhhhhhhhhhhhh
 
 @implementation Gameplay{
     CCPhysicsNode *_physicsNode;
